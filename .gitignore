@@ -13,3 +13,4 @@
 /hrserver/.mvn
 hrserver/src/main/resources/static
 hrserver/src/main/resources/templates
+hrserver/src/main/resources/application-prod.properties
