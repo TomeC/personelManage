@@ -1,0 +1,15 @@
+/.gradle/
+/.idea/
+/**/build/
+/**/out/
+/log/
+/*.iml
+*.DS_Store
+*.log
+*.war
+*.ear
+*.class
+/hrserver/target
+/hrserver/.mvn
+hrserver/src/main/resources/static
+hrserver/src/main/resources/templates

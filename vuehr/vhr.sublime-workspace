@@ -1,0 +1,252 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dow",
+				"downloadPath"
+			],
+			[
+				"d",
+				"download"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/benjamin.wang/IdeaProjects/vhr/vuehr"
+	],
+	"file_history":
+	[
+		"/Users/benjamin.wang/IdeaProjects/vhr/vuehr/package-lock.json",
+		"/Users/benjamin.wang/tmp/RedisLockComponent.java",
+		"/Users/benjamin.wang/Documents/tiaoban.pem",
+		"/Users/benjamin.wang/Documents/id_rsa_user00",
+		"/Users/benjamin.wang/Documents/release.keystore",
+		"/Users/benjamin.wang/Documents/proxy_rsa",
+		"/Users/benjamin.wang/Documents/pubkey.pem",
+		"/Users/benjamin.wang/jcode/corporate_popularize/popularize_manage/src/main/java/com/xiaoying/popularize/service/CampaignApproveService.java",
+		"/Users/benjamin.wang/jcode/corporate_popularize/dao/src/main/java/com/xiaoying/corppopu/repository/corp/AdvertisementRepository.java",
+		"/Users/benjamin.wang/jcode/corporate_popularize/common/src/main/java/com/xiaoying/common/constant/ResultCode.java",
+		"/Users/benjamin.wang/jcode/corporate_popularize/build.gradle",
+		"/Users/benjamin.wang/Applications/upload/upload.py",
+		"/Users/benjamin.wang/jcode/corporate_popularize/doc/设计文档/统一日志设计文档.md",
+		"/Users/benjamin.wang/Applications/nginx/conf/default.conf",
+		"/Users/benjamin.wang/Applications/nginx/log/error.log",
+		"/Users/benjamin.wang/Applications/nginx/log/access.log",
+		"/Users/benjamin.wang/Applications/nginx/conf/nginx.conf",
+		"/Users/benjamin.wang/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/benjamin.wang/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/benjamin.wang/tmp/vue-cms/src/main.js",
+		"/Users/benjamin.wang/tmp/导出数据.cav",
+		"/Users/benjamin.wang/tmp/1,11,1.csv",
+		"/Users/benjamin.wang/tmp/SqlToDoc/t_app_user.txt",
+		"/Users/benjamin.wang/tmp/SqlToDoc/t_app_type_user.txt",
+		"/Users/benjamin.wang/tmp/SqlToDoc/t_app_type.txt",
+		"/Users/benjamin.wang/tmp/SqlToDoc/t_app.txt",
+		"/Users/benjamin.wang/tmp/jiagu.sh",
+		"/Users/benjamin.wang/tmp/jiagu.old.sh",
+		"/Users/benjamin.wang/开发文档/数据迁移/迁移数据.txt",
+		"/Users/benjamin.wang/tmp/应用管理.md",
+		"/Users/benjamin.wang/jcode/app_manage/settings.gradle",
+		"/Users/benjamin.wang/jcode/app_manage/build.gradle",
+		"/Users/benjamin.wang/jcode/corporate_popularize/package_manage/src/main/resources/jiagu.sh",
+		"/Users/benjamin.wang/jcode/corporate_popularize/package_manage/out/production/resources/jiagu.sh",
+		"/Users/benjamin.wang/.Trash/jiagu.sh",
+		"/Users/benjamin.wang/开发文档/数据迁移/channel.csv",
+		"/Users/benjamin.wang/开发文档/数据迁移/toufang.csv",
+		"/Users/benjamin.wang/tmp/xiaoying_20190523110050_sec_20190523110434_360/META-INF/YINGZT.RSA",
+		"/Users/benjamin.wang/tmp/xiaoying_20190523110050_sec_20190523110434_360/META-INF/rxjava.properties",
+		"/Users/benjamin.wang/开发文档/迁移数据.txt",
+		"/Users/benjamin.wang/开发文档/bangbang/new.txt",
+		"/Users/benjamin.wang/tmp/okapk/AndroidManifest.xml",
+		"/Users/benjamin.wang/tmp/apk/AndroidManifest.xml",
+		"/Users/benjamin.wang/tmp/parse_fest.py",
+		"/Users/benjamin.wang/Documents/2019032116150991-xiaoying_original_350_grey_jiagu_sign/resources.arsc",
+		"/Users/benjamin.wang/Documents/2019032116150991-xiaoying_original_350_grey_jiagu_sign/AndroidManifest.xml",
+		"/Users/benjamin.wang/host/hosts.test",
+		"/Users/benjamin.wang/host/hosts",
+		"/Volumes/数据盘/benjamin/gpush",
+		"/Volumes/数据盘/benjamin/ali",
+		"/Users/benjamin.wang/tmp/v3.0修改.md",
+		"/Users/benjamin.wang/Documents/initPackage.py",
+		"/Users/benjamin.wang/tmp/readme.txt",
+		"/readme.txt",
+		"/Users/benjamin.wang/Documents/bashrc"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fsevents"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vhr.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
